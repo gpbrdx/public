@@ -1,0 +1,12 @@
+Instruções de exclusão de dados
+
+GREENBOT é uma aplicação de login no Facebook e não guardamos os seus dados pessoais no nosso servidor. De acordo com a política do Facebook, devemos fornecer o URL do lembrete de exclusão de dados do usuário ou o URL da instrução de exclusão de dados.
+
+Se deseja apagar as suas atividades para a aplicação GREENBOT, pode apagar as suas informações seguindo estes passos:
+
+- Vá para as configurações da sua conta do Facebook e privacidade. Clique em "Configurações".
+- Procure por "Aplicativos e sites" e você verá todos os aplicativos e sites que você vinculou ao seu Facebook.
+- Procure e clique em "GREENBOT" na barra de pesquisa.
+- Role para baixo e clique em "Delete".
+
+Parabéns, você removeu com sucesso as atividades da sua inscrição.
